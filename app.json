@@ -22,8 +22,8 @@
     }
    
   },
-  "website": "https://github.com/louyour/nginx-Manual",
-  "repository": "https://github.com/louyour/nginx-Manual",
+  "website": "https://github.com/spirderman/pig",
+  "repository": "https://github.com/spirderman/pig",
   "stack": "container",
   "features": [
     "runtime-dyno-metadata"
